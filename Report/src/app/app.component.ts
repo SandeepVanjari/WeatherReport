@@ -20,6 +20,14 @@ export class AppComponent implements OnInit, OnDestroy {
       cities: ['London', 'Warwick', 'Birmingham']
     },
     {
+      name: 'Australia',
+      cities: ['Pert', 'Melbourne', 'Sydney']
+    },
+    {
+      name: 'India',
+      cities: ['Delhi', 'Chennai', 'Hyderabad']
+    },
+    {
       name: 'United States',
       cities: ['New York', 'Chicago', 'Washington']
     },
